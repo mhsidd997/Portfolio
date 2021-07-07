@@ -12,6 +12,8 @@ Bachelors of Computer Science, from University of Karachi.
   <li><a href="https://crocfitbspoke.com">Wordpress Project 1</a></li>
   <li><a href="https://yellowstonejackets.com/blog/">Wordpress Project 2</a></li>
   <li><a href="https://americanjacket.store/">Wordpress Project 3</a></li>
+  <li><a href="https://fhr-foundation.org/">Wordpress Project 4</a></li>
+  <li><a href="https://www.misjedesign.no/">Wordpress Project 5</a></li>
  </ul>
 
 ## Expertise:
